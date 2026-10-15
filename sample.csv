@@ -1,0 +1,11 @@
+,User_ID,Age,Gender,Country,User_Type,Education_Level,Profession,Monthly_Income,AI_Tool,AI_Purpose,AI_Usage_Hours_Per_Day,Tasks_Performed,Monthly_AI_Cost,Productivity_Score,Accuracy_Rating,Satisfaction_Score,Time_Saved_Hours_Per_Week,Work_or_Study_Hours_Per_Day,Would_Recommend
+149,U0178,22,female,germany,Student,Bachelor's,Student,442,ChatGPT,coding,1.0,Uncategorized,0,3.6,2.0,5.0,0.0,5.6,yes
+255,U0034,18,male,philippines,Student,Bachelor's,Student,,Grammarly,studying,0.9,Academic Research & Studying,,4.9,4.0,6.0,2.5,6.1,no
+202,U0280,28,female,brazil,Student,Master's,Student,82,Google Gemini,coding,0.8,Software Development & Engineering,0,2.1,4.0,6.0,1.2,8.3,yes
+189,U0245,63,female,india,Professional,High School,,1320,Claude,office work,1.7,Administrative & Operations,,5.2,3.0,6.0,3.5,9.4,yes
+277,U0201,21,male,canada,Student,Bachelor's,Student,678,ChatGPT,writing,3.0,Academic Research & Studying,0,4.0,4.0,6.0,7.1,6.7,no
+147,U0041,27,female,pakistan,Student,Bachelor's,Student,74,ChatGPT,content creation,1.9,Content Creation & Marketing,0,,4.0,7.0,1.4,7.4,yes
+171,U0156,20,male,brazil,Student,PhD,Student,238,Claude,content creation,1.0,Uncategorized,0,,,6.0,2.7,6.2,maybe
+159,U0104,26,male,pakistan,Student,,Student,54,ChatGPT,research,2.7,Academic Research & Studying,20,,3.0,5.0,5.0,6.9,maybe
+92,U0095,43,female,pakistan,Professional,Master's,Content Strategist,730,ChatGPT,writing,1.6,Administrative & Operations,20,5.1,4.0,5.0,4.7,9.7,maybe
+148,U0230,40,female,germany,Professional,High School,Customer Support,3054,ChatGPT,customer support,1.5,Customer Support,0,4.0,2.0,3.0,7.1,7.6,no
